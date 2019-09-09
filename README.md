@@ -1,6 +1,6 @@
 # WinIPtables
 使用Powershell 防火墙规则屏蔽某个国家ip段 、fuck！
-TMD煞笔玩意，什么东西都要老子来弄。
+
 
 ```PowerShell
 $csv = Import-Csv -Path 'C:\Scripts\IPBlockList.csv'
